@@ -1,1 +1,1 @@
-# HR_Project_Manual_Testing
+# Mediusware_HR_Manual_Testing
